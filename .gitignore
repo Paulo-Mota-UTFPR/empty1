@@ -1,0 +1,12 @@
+CmakeLists.text.user
+CmakeCache.text
+CmakerFiles
+CmakerScripts
+Testing
+Makefile
+cmake_install.cmake
+insatall_manifest.text
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CmakeUserPresets.json
